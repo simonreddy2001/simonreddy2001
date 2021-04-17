@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="967" alt="profile-pic-Simon" src="https://github.com/simonreddy2001/simonreddy2001/blob/main/coding-pic.jpg">
+<img width="900" alt="coding-pic" src="https://github.com/simonreddy2001/simonreddy2001/blob/main/coding-pic.jpeg">
 
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin] **|** 
