@@ -11,7 +11,7 @@
 [website]: https://simonreddy-portfolio.netlify.app/
 [linkedin]: https://www.linkedin.com/in/simon-reddy-kommareddy
 [facebook]: https://www.facebook.com/simonreddy.kommareddy
-[instagram]: https://www.instagram.com/simonreddy.kommareddy
+[instagram]: https://www.instagram.com/simonreddy2001
 
 
 ## Skills
