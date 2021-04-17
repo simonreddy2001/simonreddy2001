@@ -15,11 +15,12 @@
 
 
 ## Skills
-* ⚛️ React
-* 📱 React Native
+
 * 💻 HTML,CSS,JS
 * 🎒 Node.Js/Express
 * ⌨️ MySQL/MONGO DB
+* ⚛️ React
+* C# .NET
 
 <!--
 **simonreddy2001/simonreddy2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
