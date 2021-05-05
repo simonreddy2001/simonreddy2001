@@ -16,10 +16,12 @@
 
 ## Skills
 
-* 💻 HTML,CSS,JS
+* 💻 HTML,CSS,JS,TS
 * 🎒 Node.Js/Express
 * ⌨️ MySQL/MONGO DB
 * ⚛️ React
+* Angular
+* VueJS
 * C# .NET
 
 <!--
