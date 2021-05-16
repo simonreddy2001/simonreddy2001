@@ -20,9 +20,8 @@
 * 🎒 Node.Js/Express
 * ⌨️ MySQL/MONGO DB
 * ⚛️ React
-* ![image](https://user-images.githubusercontent.com/77497059/118386725-d346c400-b619-11eb-87a5-d8477007aa75.png)
-Angular
-* VueJS
+* 🅰️ Angular
+* 🔻 VueJS
 * C# .NET
 
 <!--
