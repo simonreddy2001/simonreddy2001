@@ -28,11 +28,6 @@
 * Spring Framework
 * Azure Microsoft
 
-<!--
-**simonreddy2001/simonreddy2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on to become Full Stack Java/C#.Net Developer
 - 🌱 I’m currently learning more knowledge in Java
 - 👯 I’m looking to collaborate on ...
@@ -40,5 +35,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about web development and Salesforce CRM(Admin)
 - 📫 How to reach me: https://www.linkedin.com/in/simon-reddy-kommareddy/
 - 😄 Pronouns: He/Him
+<!--
+**simonreddy2001/simonreddy2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 - ⚡ Fun fact: ...
 -->
