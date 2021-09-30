@@ -33,7 +33,7 @@
 - 🔭 I’m currently working on to become Full Stack Java/C#.Net Developer
 - 🌱 I’m currently learning more knowledge in Java
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with problem solving and web development
+- 🤔 I’m looking for help with Backend development
 - 💬 Ask me about web development and Salesforce CRM(Admin)
 - 📫 How to reach me: https://www.linkedin.com/in/simon-reddy-kommareddy/
 - 😄 Pronouns: He/Him
