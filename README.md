@@ -28,6 +28,8 @@
 * Spring Framework
 * Azure Microsoft
 
+## Details
+
 - 🔭 I’m currently working on to become Full Stack Java/C#.Net Developer
 - 🌱 I’m currently learning more knowledge in Java
 - 👯 I’m looking to collaborate on ...
