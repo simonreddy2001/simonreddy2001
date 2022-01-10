@@ -22,8 +22,8 @@
 * ⚛️ React
 * 🅰️ Angular
 * 🔻 VueJS
-* C# .NET
-* Java
+* 👓 C# .NET
+* 🌧 Java
 * Entity Framework
 * Spring Framework
 * Azure Microsoft
